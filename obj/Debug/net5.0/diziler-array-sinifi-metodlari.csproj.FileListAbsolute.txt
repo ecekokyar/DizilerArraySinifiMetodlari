@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.deps.json
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.runtimeconfig.json
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.dll
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/ref/diziler-array-sinifi-metodlari.dll
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.pdb
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.dll
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/ref/diziler-array-sinifi-metodlari.dll
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.pdb
+/Users/ecekokyar/Desktop/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.genruntimeconfig.cache
